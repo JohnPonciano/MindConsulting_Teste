@@ -16,7 +16,7 @@ const Single = () => {
   const navigate = useNavigate();
 
   const postId = location.pathname.split("/")[2];
-
+  const cat = useLocation().search
   const { currentUser } = useContext(AuthContext);
 
   useEffect(() => {
