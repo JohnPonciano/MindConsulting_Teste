@@ -70,6 +70,8 @@ Recomendo executar em algum Linux ou WSL.
 O mesmo ira deletar qualquer banco com o nome blog, e criar um novo e já começar a execução do servidor MYSQL.
 Não é necessaria a re-execução deste comando. 
 
+Segue tbm um dump.sql, com todo conteudo criado nos meus testes
+
 Por padrão já são criado dois usuarios:
 
 ```bash
