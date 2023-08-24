@@ -5,7 +5,6 @@ const Footer = () => {
   return (
     <footer>
       <img src={Logo} alt="" />
-      <span>Tenho dificuldade com frontend</span>
       <span>
         Made with NITGHMARE and <b>React.js</b>.
       </span>
